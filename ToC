@@ -1,24 +1,26 @@
-## Chapter 0 Generators
 
 
+Xcode
+
+## Chapter 0 gpg
 
 
-## Chapter 1 Unicode
+## Chapter 1 ssh
 
 
+## Chapter 2 git
 
 
-## Chapter 2 Arrows
+## Chapter 3 bash
 
 
+## Chapter 4 homebrew
+	-Casks
+	-Brew File
 
 
-## Chapter 3 Modules
+## Chapter 5 macos
+	-mackup
 
 
-
-
-## Chapter 4 Promises
-
-## Chapter 5 TBA
-
+## Chapter 6 
